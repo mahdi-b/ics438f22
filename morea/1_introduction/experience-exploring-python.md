@@ -12,7 +12,7 @@ morea_labels:
 
 # Exploring Python.
 
-* Download and complete the following [Python Tutorial](https://www.dropbox.com/s/asmr8lze4j2swm8/introduction-to-python-master.zip?dl=1)
+* Download and complete the following [Python Tutorial](https://www.dropbox.com/s/c0jd8n5w400noei/introduction-to-python-master.zip?dl=1)
     * Tutorials written as Jupyter notebooks and can be launched using the following command:
 
 ```python
