@@ -8,8 +8,9 @@ morea_outcomes:
 morea_readings:
   - reading-syllabus
   - reading-slides-set-1
+  - reading-sampling
 morea_experiences:
-  - experience-exploring-jupyter
+  - experience-installing-jupyter
   - experience-exploring-jupyter  
   - experience-exploring-python
 morea_type: module
