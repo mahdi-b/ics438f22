@@ -11,7 +11,7 @@ morea_readings:
 morea_experiences:
   - experience-oltp-olap
 morea_type: module
-morea_icon_url: /morea/1_introduction/introduction.jpg
+morea_icon_url: /morea/2_data_formats/formats.jpg
 morea_start_date: "2022-08-22"
 morea_end_date: "2022-08-26T23:00"
 morea_labels:
