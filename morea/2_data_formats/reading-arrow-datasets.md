@@ -10,5 +10,5 @@ morea_labels:
 ---
 
 <br/>
-The notebook will be posted after class [here]()
+The notebook will be posted after class [here](resources/Apache_Arrow_and_Datasets.ipynb)
 <br/>

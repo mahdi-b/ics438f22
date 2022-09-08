@@ -10,6 +10,7 @@ morea_readings:
   - reading-arrow-datasets
 morea_experiences:
   - experience-oltp-olap
+  - experience-reading-parquet-files
 morea_type: module
 morea_icon_url: /morea/2_data_formats/formats.jpg
 morea_start_date: "2022-08-22"
