@@ -10,9 +10,9 @@ morea_readings:
   - reading-spark-introduction-2
 morea_experiences:
 morea_type: module
-morea_icon_url: /morea/2_data_formats/formats.jpg
+morea_icon_url: /morea/3_distributed_computing_spark/dist_computing.jpg
 morea_start_date: "2022-09-05"
-morea_end_date: "2022-09-12"
+morea_end_date: "2022-09-16"
 morea_labels:
 morea_sort_order: 1
 ---
