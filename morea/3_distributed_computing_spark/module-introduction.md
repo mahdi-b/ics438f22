@@ -6,6 +6,8 @@ morea_id: map-reduce
 morea_outcomes:
   - outcome-module-3
 morea_readings:
+  - reading-spark-introduction-1
+  - reading-spark-introduction-2
 morea_experiences:
 morea_type: module
 morea_icon_url: /morea/2_data_formats/formats.jpg
@@ -15,6 +17,7 @@ morea_labels:
 morea_sort_order: 1
 ---
 
-
+In this module, we briefly introduce the map reduce paradigm and focus on Spark, one of the most commonly used map and reduce-based distributed systems for handling massive amounts of data.
+This module covered Spark's main components and how data is stored and optimized in Spark and emphasizes functions to load, explore, manipulate, and join data in Spark.
 
 
