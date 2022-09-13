@@ -9,6 +9,6 @@ morea_sort_order: 1
 
 <br/>
 
-See [slides from Databricks](https://www.dropbox.com/s/l6950nbp0jt5ysp/Ebook_8-Steps-V2.pdf?dl=0)
+You can find a useful Spark cheat-sheet on the [Data Camp](https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python) website
 
 <br/>
