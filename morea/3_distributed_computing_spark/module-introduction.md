@@ -8,6 +8,8 @@ morea_outcomes:
 morea_readings:
   - reading-spark-introduction-1
   - reading-spark-introduction-2
+  - reading-databricks-ebook
+  - reading-databricks-cheatsheet
 morea_experiences:
 morea_type: module
 morea_icon_url: /morea/3_distributed_computing_spark/dist_computing.jpg
