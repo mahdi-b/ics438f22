@@ -14,7 +14,7 @@ morea_icon_url: /morea/3_distributed_computing_spark/dist_computing.jpg
 morea_start_date: "2022-09-05"
 morea_end_date: "2022-09-16"
 morea_labels:
-morea_sort_order: 1
+morea_sort_order: 3
 ---
 
 In this module, we briefly introduce the map reduce paradigm and focus on Spark, one of the most commonly used map and reduce-based distributed systems for handling massive amounts of data.

@@ -13,10 +13,10 @@ morea_experiences:
   - experience-reading-parquet-files
 morea_type: module
 morea_icon_url: /morea/2_data_formats/formats.jpg
-morea_start_date: "2022-08-22"
-morea_end_date: "2022-08-26T23:00"
+morea_start_date: "2022-08-29"
+morea_end_date: "2022-09-02T23:00"
 morea_labels:
-morea_sort_order: 1
+morea_sort_order: 2
 ---
 
 
