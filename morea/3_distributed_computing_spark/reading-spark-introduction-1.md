@@ -11,6 +11,6 @@ morea_labels:
 
 <br/>
 
-The notebook can be obtained [here](resources/Spark_introduction_2.ipynb)
+The notebook can be obtained [here](resources/Spark_introduction_1.ipynb)
 
 <br/>

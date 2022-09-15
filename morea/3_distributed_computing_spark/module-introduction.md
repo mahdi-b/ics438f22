@@ -11,6 +11,7 @@ morea_readings:
   - reading-databricks-ebook
   - reading-databricks-cheatsheet
 morea_experiences:
+  - experience-exploring-dremio
 morea_type: module
 morea_icon_url: /morea/3_distributed_computing_spark/dist_computing.jpg
 morea_start_date: "2022-09-05"
