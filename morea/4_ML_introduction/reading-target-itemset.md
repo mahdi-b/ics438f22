@@ -7,4 +7,5 @@ morea_summary: How Target Figured Out A Teen Girl Was Pregnant Before Her Father
 morea_sort_order: 1
 ---
 
-Your shopping habits are frequently used by retailers to figure out what you like, what you need, and which coupons are most likely to make you happy. This article describes how Target uses itemset analysis to figure out how a client is pregnant.
+Your shopping habits are frequently used by retailers to figure out what you like, what you need, and which coupons are most likely to make you happy. 
+[This article](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/?sh=30983c056668) describes how Target uses itemset analysis to figure out how a client is pregnant.

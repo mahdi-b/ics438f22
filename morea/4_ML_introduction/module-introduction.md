@@ -9,7 +9,9 @@ morea_readings:
   - reading-mmds-itemset
   - reading-mmds-collab-filtering
   - reading-itemset-notebook
+  - reading-clustering-notebook
 morea_experiences:
+  - experience-recommender-system-spark
 morea_type: module
 morea_icon_url: /morea/4_ML_introduction/ml.jpg
 morea_start_date: "2022-09-19"
