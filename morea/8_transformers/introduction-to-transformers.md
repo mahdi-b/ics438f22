@@ -13,4 +13,8 @@ In addition to text, transformers have been used for a variety of other types of
 graphs. This notebook provides a  gentle and intuitive introduction to transformers with an emphasis on the 
 encoder part that is used to create context-specific embeddings that are ideal to convert text into an analytics-ready resource.
 
+The introduction notebook can be obtained [here](resources/introduction_to_ransformers.ipynb)
+
 <br/>
+
+
