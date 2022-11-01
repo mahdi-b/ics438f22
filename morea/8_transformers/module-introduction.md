@@ -5,7 +5,8 @@ morea_coming_soon: false
 morea_id: transformers
 morea_outcomes:
 morea_readings:
-  - introduction-to-transformers 
+  - introduction-to-transformers
+  - sentence-embeddings
 morea_experiences:
 morea_type: module
 morea_icon_url: /morea/8_transformers/attention.jpg
