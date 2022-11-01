@@ -12,7 +12,7 @@ morea_labels:
 
 Instead of encoding words individually, sentence embedding can handle entire sentences,	providing a convenient way to encode longer text, simplifying machine learning and information retrieval.
 
-The sentence embeddings notebook can be found [here](resources/notebook_sentence_embedding.ipynb)
+The sentence embeddings notebook can be found [here](resources/sentence_embedding.ipynb)
 
 <br/>
 
