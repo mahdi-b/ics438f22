@@ -38,3 +38,12 @@ and tools for processing, analyzing, and visualizing large datasets.
 2. Learn fundamental algorithms and techniques to explore big data and generate actionable insights.
 3. Getting familiar with machine learning and AI-based models for extracting insight from text data.
 
+
+
+
+### ICS 434 Final Project
+Instructions about the final project can be found [here](https://docs.google.com/document/d/1V9LzRhdqB4Lb7amMmT98HBf8xqy7fK6742nm6e_Nboc/edit?usp=sharing)
+
+
+### ICS 691 Paper review
+Instructions about the Paper Review can be found [here]()
