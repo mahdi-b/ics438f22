@@ -46,5 +46,5 @@ Instructions about the final project can be found [here](https://docs.google.com
 
 
 ### ICS 691 Project or Paper Review
-Instructions about the Paper Review can be found [here](https://docs.google.com/document/d/1_5HsSpl81hi3ctchDl7yJPrDPHinXwYMoL-SQdv8X5s/edit?pli=1#)
+Instructions about the Paper Review can be found [here](https://docs.google.com/document/d/1_5HsSpl81hi3ctchDl7yJPrDPHinXwYMoL-SQdv8X5s/edit?usp=sharing)
 
