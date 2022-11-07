@@ -45,5 +45,6 @@ and tools for processing, analyzing, and visualizing large datasets.
 Instructions about the final project can be found [here](https://docs.google.com/document/d/1V9LzRhdqB4Lb7amMmT98HBf8xqy7fK6742nm6e_Nboc/edit?usp=sharing)
 
 
-### ICS 691 Paper review
-Instructions about the Paper Review can be found [here]()
+### ICS 691 Project or Paper Review
+Instructions about the Paper Review can be found [here](https://docs.google.com/document/d/1_5HsSpl81hi3ctchDl7yJPrDPHinXwYMoL-SQdv8X5s/edit?pli=1#)
+
