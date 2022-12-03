@@ -1,7 +1,7 @@
 ---
 title: "HuggingFace Datasets Library" 
 published: true
-morea_id: sentence-embedding-umap
+morea_id: huggingface-datasets
 morea_type: reading
 morea_summary: Fundamentals and useful function in the HuggingFace datasets library 
 morea_sort_order: 1

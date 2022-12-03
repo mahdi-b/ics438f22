@@ -6,6 +6,7 @@ morea_id: text-analytics
 morea_outcomes:
 morea_readings:
   - sentence-embedding-umap
+  - sentiment_mining
 morea_experiences:
 morea_type: module
 morea_icon_url: /morea/10_handson_sessions/practice.jpg
