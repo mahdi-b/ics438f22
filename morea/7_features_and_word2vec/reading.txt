@@ -1,0 +1,2 @@
+https://tomelf.github.io/nlp/machine%20learning/text-preprocessing/
+https://jalammar.github.io/illustrated-word2vec/
